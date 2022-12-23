@@ -14,7 +14,7 @@ style: |
 ---
 
 # <!-- fit --> Intro to marp :rocket:
-By: Eduardo Gomez
+By: G00Z_G00Z
 
 ---
 
@@ -40,7 +40,7 @@ $$
 
 --- 
 
-# <!-- fit -->Powerpoint sucks :man_shrugging:
+# <!-- fit -->Powerpoint is bad:man_shrugging:
 
 ![bg left:33% w:10cm][powerpoint]
 
@@ -62,6 +62,5 @@ $$
 # <!-- fit --> Change to Marp Now !!
 
 
-[powerpoint]:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png
 [powerpoint]:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png
 [marp]:https://avatars.githubusercontent.com/u/20685754?s=280&v=4
