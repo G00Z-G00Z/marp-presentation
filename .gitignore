@@ -1,3 +1,4 @@
 
 exports/*
 !exports/.gitkeep
+!exports/*.pdf
