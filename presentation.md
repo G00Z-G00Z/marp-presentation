@@ -24,8 +24,7 @@ By: G00Z_G00Z
 def add(a : int, b : int):
     return a + b
 ```
-
-<!-- Debo de recordar que esto es una presentacion -->
+<!-- This is a presentation note -->
 
 ---
 
